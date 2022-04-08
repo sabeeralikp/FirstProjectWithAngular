@@ -1,10 +1,10 @@
 # First Project with .NET & Angular
 
-Basic CRUD and file upload with:
+Basic CRUD Operation and file upload in **Simple Clean Architecture** with:
 
-  * SQL
-  * .NET
-  * Angular 
+  * **SQL**
+  * **.NET**
+  * **Angular** 
 
 For running successively: 
 ## 1 Connect to server as .(Dot)
