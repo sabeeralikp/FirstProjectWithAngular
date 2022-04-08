@@ -1,0 +1,15 @@
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\bin\Debug\net5.0\FirstProjectWithAngularInfrastrucure.deps.json
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\bin\Debug\net5.0\FirstProjectWithAngularInfrastrucure.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\bin\Debug\net5.0\ref\FirstProjectWithAngularInfrastrucure.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\bin\Debug\net5.0\FirstProjectWithAngularInfrastrucure.pdb
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\bin\Debug\net5.0\FirstProjectWithAngularCore.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\bin\Debug\net5.0\FirstProjectWithAngularCore.pdb
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.csproj.AssemblyReference.cache
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.AssemblyInfoInputs.cache
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.AssemblyInfo.cs
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.csproj.CoreCompileInputs.cache
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.csproj.CopyComplete
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\ref\FirstProjectWithAngularInfrastrucure.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularInfrastrucure\obj\Debug\net5.0\FirstProjectWithAngularInfrastrucure.pdb

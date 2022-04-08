@@ -1,0 +1,92 @@
+<div
+  style="
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+  "
+>
+  <div>
+    <h3>Books</h3>
+  </div>
+  <div>
+    <button (click)="newBook()">Add Book</button>
+  </div>
+</div>
+<form
+  [formGroup]="booksFormGroup"
+  *ngIf="isCreate"
+  style="
+    margin-bottom: 64px;
+    border: 1px solid black;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+  "
+>
+  <h2>CREATE / UPDATE</h2>
+  <input
+    type="text"
+    name="po-text-field"
+    formControlName="bookName"
+    placeholder="Book Name"
+  />
+  <br />
+  <input
+    type="text"
+    name="po-text-field"
+    formControlName="author"
+    placeholder="Author"
+  />
+  <br />
+  <input
+    type="number"
+    name="number"
+    formControlName="bookPrice"
+    placeholder="BookPrice"
+    style="margin-bottom: 12px"
+  /><br />
+
+  <input
+    type="File"
+    (change)="onFileChange($event)"
+    style="margin-bottom: 24px"
+  />
+
+  <br />
+  <input type="button" value="Submit" (click)="createBook()" /><br />
+  <input type="button" value="Reset" (click)="resetForm()" />
+</form>
+<table style="width: 100%; margin-bottom: 32px">
+  <thead>
+    <th>Photo</th>
+    <th>SI NO</th>
+    <th>Book Name</th>
+    <th>Author Name</th>
+    <th>Book Price</th>
+    <th>Actions</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let book of books; let i = index">
+      <td>
+        <img
+          src=" ./../../../../../Photo/Books/{{ book.photoPath }}"
+          alt="{{ book.name }}"
+          style="width: 100px; height: 100px"
+        />
+      </td>
+      <td>{{ i + 1 }}</td>
+      <td>{{ book.bookName }}</td>
+      <td>{{ book.author }}</td>
+      <td>{{ book.bookPrice }}</td>
+      <td>
+        <button (click)="editBook(book)" style="margin-right: 8px">Edit</button>
+        <button (click)="deleteBook(book.bookID)">Delete</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

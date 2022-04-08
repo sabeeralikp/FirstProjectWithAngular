@@ -1,0 +1,12 @@
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\bin\Debug\net5.0\FirstProjectWithAngularCore.deps.json
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\bin\Debug\net5.0\FirstProjectWithAngularCore.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\bin\Debug\net5.0\ref\FirstProjectWithAngularCore.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\bin\Debug\net5.0\FirstProjectWithAngularCore.pdb
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.csproj.AssemblyReference.cache
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.AssemblyInfoInputs.cache
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.AssemblyInfo.cs
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.csproj.CoreCompileInputs.cache
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\ref\FirstProjectWithAngularCore.dll
+D:\Development\.NET\FirstProjectWithAngular\FirstProjectWithAngularCore\obj\Debug\net5.0\FirstProjectWithAngularCore.pdb
