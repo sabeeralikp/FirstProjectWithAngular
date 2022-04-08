@@ -25,7 +25,7 @@ export class HomeComponent implements OnInit {
       });
   }
   newBook() {
-    this.isCreate = true;
+    this.isCreate = !this.isCreate;
     this.booksFormGroup.reset();
   }
   createBook() {
