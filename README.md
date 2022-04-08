@@ -1,4 +1,4 @@
-# First Project with .NET & Angular
+# Simple Project with .NET & Angular
 
 Basic CRUD Operation and file upload in **Simple Clean Architecture** with:
 
